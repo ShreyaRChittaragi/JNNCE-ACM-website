@@ -36,5 +36,8 @@ This is the official website for the **JNNCE ACM Student Chapter**, designed and
 
 This project and its source code are the intellectual property of the **JNNCE ACM Student Chapter** and **JNNCE, Shivamogga**.
 
+##📄 [View License](./LICENSE)
+
+
 
 
